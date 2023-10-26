@@ -1,3 +1,6 @@
 ruby: puts ("hello, world!")
 python: print("hello, world!")
 c++: printf("hello, world!"/n)
+ruby x.each { |item| puts item}
+for element in x:
+  print (element)
